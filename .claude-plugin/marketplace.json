@@ -1,0 +1,12 @@
+{
+  "name": "discy-plugins",
+  "owner": { "name": "Mai Văn Phố" },
+  "description": "Claude Code plugins for the Discy workspace.",
+  "plugins": [
+    {
+      "name": "discy-second-brain",
+      "source": "./discy-second-brain",
+      "description": "Use your Discy workspace as a second brain inside Claude Code workflows: recall before work, capture after, review weekly."
+    }
+  ]
+}
