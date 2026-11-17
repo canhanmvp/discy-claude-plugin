@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "discy": {
+      "type": "http",
+      "url": "https://mcp.discyhabit.com/agent",
+      "oauth": {
+        "clientId": "discy-claude-code-73ba7178eed0b7b4275c7ee1f5ca55e6",
+        "callbackPort": 38421
+      }
+    }
+  }
+}
