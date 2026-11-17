@@ -1,0 +1,10 @@
+{
+  "name": "discy-second-brain",
+  "displayName": "Discy Second Brain",
+  "version": "0.2.0",
+  "description": "Use your Discy workspace (notes, tasks, habits, goals, projects) as a second brain in Claude: recall before work, capture after, weekly review.",
+  "author": { "name": "Mai Văn Phố", "email": "support@discyhabit.com", "url": "https://discyhabit.com" },
+  "homepage": "https://discyhabit.com/support",
+  "license": "MIT",
+  "keywords": ["second-brain", "notes", "habits", "productivity", "weekly-review"]
+}
